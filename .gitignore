@@ -1,0 +1,22 @@
+﻿# PHP vendor
+gym-api/vendor/
+
+# Python cache
+python-service/__pycache__/
+python-service/known_faces/encodings.pkl
+python-service/*.pyc
+
+# React
+gym-frontend/node_modules/
+gym-frontend/dist/
+
+# Upload files
+gym-api/uploads/faces/*.jpg
+gym-api/uploads/faces/*.png
+
+# Composer
+gym-api/composer.phar
+gym-api/composer-setup.php
+
+# Env
+gym-frontend/.env
